@@ -5,16 +5,25 @@
 <h1>Skills</h1>
 
 <p style="font-size: larger;">
-Frontend Development (HTML, CSS, JavaScript)
-Android Development (Java)
-Web Development (MERN stack)
-Data Structures and Algorithms (DSA)
-Cybersecurity
-Blockchain</p>
+  <ul>
+    <li>Frontend Development (HTML, CSS, JavaScript)</li>
+    <li>Android Development (Java)</li>
+    <li>Web Development (MERN stack)</li>
+    <li>Data Structures and Algorithms (DSA)</li>
+    <li>Cybersecurity</li>
+    <li>Blockchain</li>
+  </ul>
+</p>
+
 
 <h1>Education</h1>
 
-<p style="font-size: larger;">Currently pursuing a Bachelor's degree in Computer Science (3rd year student)</p>
+<p style="font-size: larger;">
+  <ul>
+    <li>Currently pursuing a Bachelor's degree in Computer Science (3rd year student)</li>
+  </ul>
+</p>
+
 
 <h1>Interests</h1>
 
