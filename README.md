@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhir Kumar Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
-- 🔭 I’m currently working on [Postman](https://github.com/Sudhir919/PostMan-Clone-for-Create-and-Get-post-request/tree/main/06_PostMan%20Clone%20for%20get%20post%20request)
+I'm a developer and currently a final-year student pursuing my passion for programming. My areas of interest lie in the exciting fields of cybersecurity and blockchain technology. I have a strong expertise in Data Structures and Algorithms (DSA) and enjoy working on Android and web development projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
