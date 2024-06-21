@@ -1,6 +1,7 @@
-<h2 Hi 👋, I'm Sudhir Kumar Singh</h2>
+<h1>Hi, I'm Sudhir Kumar Singh! 👋</h1>
 
-I'm a developer and currently a final-year student pursuing my passion for programming. My areas of interest lie in the exciting fields of cybersecurity and blockchain technology. I have a strong expertise in Data Structures and Algorithms (DSA) and enjoy working on Android and web development projects.
+<p style="font-size: larger;">I'm a developer and currently a final-year student pursuing my passion for programming. My areas of interest lie in the exciting fields of cybersecurity and blockchain technology. I have strong expertise in Data Structures and Algorithms (DSA) and enjoy working on Android and web development projects.</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
