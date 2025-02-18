@@ -20,7 +20,8 @@
 
 <p style="font-size: larger;">
   <ul>
-    <li>Currently pursuing a Bachelor's degree in Computer Science (3rd year student)</li>
+    <li>Currently pursuing a Bachelor's degree in Computer Science (4th year student)</li>
+    <li>CGPA:- 8.09</li>
   </ul>
 </p>
 
