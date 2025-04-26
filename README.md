@@ -6,12 +6,13 @@
 
 <p style="font-size: larger;">
   <ul>
+    <li>Programming Language (C , C++ , Java , Python)</li>
     <li>Frontend Development (HTML, CSS, JavaScript, Reactjs)</li>
-    <li>Android Development (Java)</li>
-    <li>Web Development (Full Stack)</li>
+    <li>Backend Development (Node.js , Express.js )</li>
+    <li>Database (MongoDB , MySql , Firebase)</li>
     <li>Data Structures and Algorithms (DSA)</li>
-    <li>Cybersecurity</li>
-    <li>Blockchain</li>
+    <li>Data Analytics</li>
+    
   </ul>
 </p>
 
