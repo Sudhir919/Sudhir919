@@ -1,13 +1,13 @@
 <h1>Hi, I'm Sudhir Kumar Singh! 👋</h1>
 
-<p style="font-size: larger;">I'm a developer and currently a final-year student pursuing my passion for programming. My areas of interest lie in the exciting fields of Web Designing. I have strong expertise in Data Structures and Algorithms (DSA) and enjoy working on Android and web development projects.</p>
+<p style="font-size: larger;">I'm a software developer and currently a final-year student pursuing my passion for programming. My areas of interest lie in the exciting fields of Web Designing. I have strong expertise in Data Structures and Algorithms (DSA) and enjoy working on Android and web development projects.</p>
 
 <h1>Skills</h1>
 
 <p style="font-size: larger;">
   <ul>
     <li>Programming Language (C , C++ , Java , Python)</li>
-    <li>Frontend Development (HTML, CSS, JavaScript, Reactjs)</li>
+    <li>Frontend Development (HTML, CSS, JavaScript, React.js)</li>
     <li>Backend Development (Node.js , Express.js )</li>
     <li>Database (MongoDB , MySql , Firebase)</li>
     <li>Data Structures and Algorithms (DSA)</li>
