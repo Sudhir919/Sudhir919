@@ -43,10 +43,4 @@
   <a href="https://www.geeksforgeeks.org/user/sudhirkr9708/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks Profile" height="30" width="40" />
   </a>
-  <a href="https://sudhir-singh.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-portfolio-user-interface-flatart-icons-flat-flatarticons.png" alt="Portfolio" height="30" width="40" />
-  </a>
 </p>
-
-
-
