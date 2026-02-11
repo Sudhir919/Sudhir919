@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhir Kumar Singh</h1>
-<h3 align="center">Junior Software Engineer @ EPAM | Data Engineer | Python Backend Developer</h3>
+<h3 align="center">Junior Software Engineer @ EPAM | Data Engineer </h3>
 
 ---
 
