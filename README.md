@@ -5,12 +5,12 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Currently working as **Junior Software Engineer at EPAM Systems**
-- 🔥 Strong in **Python Backend Development, OOP, SOLID, Design Patterns**
-- ⚡ Experienced in **Multithreading, Asyncio, Logging, and Unit Testing**
-- 📊 Passionate about **Data Engineering, Distributed Systems & Scalable Architectures**
-- ☁️ Hands-on experience with **AWS, Databricks, PySpark, Delta Lake**
-- 🎯 Strong foundation in **Data Structures & Algorithms**
+- 💼 Working as a Software Engineer with experience in building scalable and reliable applications
+- 🔥 Strong foundation in software development principles, system design, and problem-solving
+- ⚡ Experienced in writing clean, maintainable, and testable code following industry best practices
+- 📊 Interested in backend systems, data-driven applications, and high-performance architectures
+- ☁️ Exposure to cloud technologies, distributed systems, and modern development workflows
+- 🎯 Solid understanding of Data Structures & Algorithms with a focus on performance optimization
 
 ---
 
