@@ -1,46 +1,117 @@
-<h1>Hi, I'm Sudhir Kumar Singh! 👋</h1>
+<h1 align="center">Hi 👋, I'm Sudhir Kumar Singh</h1>
+<h3 align="center">Junior Software Engineer @ EPAM | Data Engineer | Python Backend Developer</h3>
 
-<p style="font-size: larger;">I'm a software developer and currently a final-year student pursuing my passion for programming. My areas of interest lie in the exciting fields of Web Designing. I have strong expertise in Data Structures and Algorithms (DSA) and enjoy working on Android and web development projects.</p>
+---
 
-<h1>Skills</h1>
+## 👨‍💻 About Me
 
-<p style="font-size: larger;">
-  <ul>
-    <li>Programming Language (C , C++ , Java , Python)</li>
-    <li>Frontend Development (HTML, CSS, JavaScript, React.js)</li>
-    <li>Backend Development (Node.js , Express.js )</li>
-    <li>Database (MongoDB , MySql , Firebase)</li>
-    <li>Data Structures and Algorithms (DSA)</li>
-    <li>Data Analytics</li>
-    
-  </ul>
-</p>
+- 💼 Currently working as **Junior Software Engineer at EPAM Systems**
+- 🔥 Strong in **Python Backend Development, OOP, SOLID, Design Patterns**
+- ⚡ Experienced in **Multithreading, Asyncio, Logging, and Unit Testing**
+- 📊 Passionate about **Data Engineering, Distributed Systems & Scalable Architectures**
+- ☁️ Hands-on experience with **AWS, Databricks, PySpark, Delta Lake**
+- 🎯 Strong foundation in **Data Structures & Algorithms**
+
+---
+
+## 💼 Experience
+
+### 🏢 EPAM Systems – Junior Software Engineer (Nov 2025 – Present)
+
+- Developed **Python-based CLI backend applications** using OOP, SOLID principles, and design patterns  
+- Implemented **multithreading, asyncio, logging, and Pytest-based unit testing**
+- Improved maintainability by **25%** and reliability by **20%**
+- Optimized SQL & NoSQL workflows (CRUD, joins, indexing, transactions, caching)
+- Reduced query response time by **35%**
+- **Tech Stack:** Python, MySQL, Redis, Docker, Git, Pytest
+
+---
+
+### 🏢 Revature – Data Engineer Trainee (Apr 2025 – Sep 2025)
+
+- Built real-time data pipeline: **Kinesis → S3 (Firehose) → Databricks Delta Lake**
+- Processed **7L+ rows (2009–2024 dataset)** using PySpark
+- Implemented schema evolution, deduplication, null handling & outlier treatment
+- Achieved **30% performance improvement**
+- Integrated Slack alerts & Unity Catalog (40% faster incident response)
+- Delivered dashboards improving stakeholder visibility by **60%**
+- **Tech Stack:** Python, PySpark, Databricks, AWS, Delta Lake, MySQL, GitHub
+
+---
+
+### 🏢 Vibra Energy – Frontend Developer Intern (Feb 2024 – Apr 2024)
+
+- Developed fully responsive website for UK-based client
+- Implemented “Check My Eligibility” feature
+- Integrated Google Maps & cookie consent system
+- Increased user engagement by **25%**
+- **Tech Stack:** HTML, CSS, JavaScript, MongoDB
+
+---
+
+## 🚀 Projects
+
+### 🌍 Disaster Tracker (D-Track)
+
+- Cleaned & transformed **500K+ Kaggle records**
+- Designed normalized relational database models
+- Performed comprehensive EDA uncovering 10+ disaster trends
+- Delivered actionable insights improving preparedness by **25%**
+- **Tech:** Python, SQL, Pandas, NumPy
+
+---
+
+### 💻 PeerCode – Real-time Collaborative Code Editor
+
+- Built collaborative editor with shared room IDs
+- Achieved **90% reduced latency**
+- Attracted 50+ users in first month
+- Improved team productivity by **30%**
+- **Tech:** React.js, Tailwind CSS, Node.js, Socket.io, MongoDB
+
+---
+
+## 🛠 Technical Skills
+
+### 👨‍💻 Languages
+Python | Java | C++ | C | JavaScript  
+
+### 🗄 Databases
+MySQL | MongoDB | Redis | Firebase | RDBMS  
+
+### ☁️ Cloud & Big Data
+AWS | Azure | Databricks | PySpark | Delta Lake | Hadoop  
+
+### ⚙️ Tools & Practices
+Docker | Git | GitHub | Pytest  
+OOP | SOLID Principles | Design Patterns  
+Multithreading | Asyncio | Logging | System Design  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner – Hackshield CU Hackathon  
+- 🎯 Selected for Kavach 2023 (Top 300+ teams)  
+- 📄 Published Research Paper in Healthcare Domain  
+- 🏅 NPTEL IoT Topper (Top 2%)  
+
+---
+
+## 🎓 Education
+
+**B.E. Computer Science & Engineering**  
+Chandigarh University (2021 – 2025)  
+CGPA: 8.12  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/sudhir88/]
+- 💻 LeetCode: [https://leetcode.com/u/sudhirkr971/]
+- 🧠 GeeksForGeeks: [https://www.geeksforgeeks.org/profile/sudhirkr9708]
 
 
-<h1>Education</h1>
-
-<p style="font-size: larger;">
-  <ul>
-    <li>Currently pursuing a Bachelor's degree in Computer Science (4th year student)</li>
-    <li>CGPA:- 8.09</li>
-  </ul>
-</p>
 
 
-<h1>Interests</h1>
-
-<p style="font-size: larger;">Apart from coding, I enjoy exploring the latest advancements in the cybersecurity and blockchain domains. In my free time, I also like to contribute to open source projects and experiment with new technologies.</p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sudhir88/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/sudhirkr971/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/sudhirkr9708/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks Profile" height="30" width="40" />
-  </a>
-</p>
